@@ -27,5 +27,6 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </p>
