@@ -27,7 +27,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
           GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
           COMMIT_USERNAME: "kaleus"
-          COMMIT_EMAIL: "1766789972@qq.com"
+          COMMIT_EMAIL: "84889222+Aspirai@users.noreply.github.com"
           SHOW_UPDATED_DATE: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT: "False"
