@@ -1,24 +1,11 @@
 ## Hi there 👋
 
-<!--
-**Aspirai/aspirai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Vue
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="left">
-  <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-561%20hrs%2026%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
@@ -44,7 +31,7 @@ myxq-admin-web           1 min               ░░░░░░░░░░░�
 Windows                  40 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
 JavaScript               2 repos             ████████████░░░░░░░░░░░░░   50.00 % 
@@ -52,9 +39,5 @@ PLpgSQL                  1 repo              ██████░░░░░�
 TypeScript               1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 
-
-
-
  Last Updated on 24/07/2025 08:39:37 UTC
 <!--END_SECTION:waka-->
-</p>
