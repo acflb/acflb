@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![Metrics](/github-metrics.svg)
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
+![Metrics](/github-metrics.svg)
+-->
+
+<p align="left"><img src="/github-metrics.svg" alt="Metrics" width="400"></p><p align="right"><img src="/metrics.plugin.wakatime.svg" alt="wakatime" width="400"></p>
