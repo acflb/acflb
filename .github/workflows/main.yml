@@ -26,13 +26,9 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-      # WakaTime Metrics
-      - name: WakaTime
-        uses: lowlighter/metrics@latest
+      # WakaTime Metrics       
+      - name: Waka Readme
+        uses: anmol098/waka-readme-stats@master
         with:
-          filename: metrics.plugin.wakatime.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
