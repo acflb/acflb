@@ -20,15 +20,17 @@ jobs:
     permissions:
       contents: write
     steps:
-      # Metrics
-      - name: GitHub Metrics
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-
       # WakaTime Metrics       
       - name: Waka Readme
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
           GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          COMMIT_USERNAME: "kaleus"
+          COMMIT_EMAIL: "1766789972@qq.com"
+          SHOW_UPDATED_DATE: "True"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_COMMIT: "False"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LOC_CHART: "False"
