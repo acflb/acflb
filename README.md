@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-559%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-559%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -106,6 +106,6 @@ TypeScript               1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aspirai/Aspirai/master/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2025 06:01:08 UTC
+ Last Updated on 24/07/2025 06:02:33 UTC
 <!--END_SECTION:waka-->
 </p>
