@@ -21,4 +21,11 @@ Here are some ideas to get you started:
 ![Metrics](/github-metrics.svg)
 -->
 
-<p align="left"><img src="/github-metrics.svg" alt="Metrics" width="400"></p><p align="right"><img src="/metrics.plugin.wakatime.svg" alt="wakatime" width="400"></p>
+<p>
+  <img align="left" src="/github-metrics.svg" alt="Metrics" width="400">
+  <img align="right" src="/metrics.plugin.wakatime.svg" alt="wakatime" width="400">
+</p>
+
+<p align="center">
+
+</p>
