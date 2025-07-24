@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Vue
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-561%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-561%20hrs%2051%20mins-blue)
 
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
@@ -31,7 +31,7 @@ myxq-admin-web           1 min               ░░░░░░░░░░░�
 Windows                  40 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in JavaScript**
+**I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               2 repos             ████████████░░░░░░░░░░░░░   50.00 % 
@@ -39,5 +39,8 @@ PLpgSQL                  1 repo              ██████░░░░░�
 TypeScript               1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 
- Last Updated on 24/07/2025 08:39:37 UTC
+
+
+
+ Last Updated on 24/07/2025 09:05:14 UTC
 <!--END_SECTION:waka-->
